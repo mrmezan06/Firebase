@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "677495856367",
+    "firebase_url": "https://fir-eadda.firebaseio.com",
+    "project_id": "fir-eadda",
+    "storage_bucket": "fir-eadda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677495856367:android:1240ef15c68466c8",
+        "android_client_info": {
+          "package_name": "com.mezan.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677495856367-6umo79d2u73nqkv42e5sn3g29vfehq7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mezan.firebase",
+            "certificate_hash": "44fe87520c7626083a8c274ab72ac1fbfdb93417"
+          }
+        },
+        {
+          "client_id": "677495856367-7rv6hhr3m4dj9f86g6i65mig42ugsce7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0jNVN74jQ2cLC7Y_e6E1eoHP2fQsR5H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677495856367-7rv6hhr3m4dj9f86g6i65mig42ugsce7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
